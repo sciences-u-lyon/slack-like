@@ -1,1 +1,1 @@
-# slack-like
+# slack-like-client
